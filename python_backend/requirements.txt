@@ -1,0 +1,15 @@
+pip>=23.0
+requests
+beautifulsoup4
+nltk
+python-dotenv
+asyncio
+flask
+regex
+httpx
+uvicorn
+ipython-cluster-helper==0.6.2
+numpy
+pandas
+wheel
+fastapi
