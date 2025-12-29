@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: healthcare-backend
+    env: python
+    startCommand: "uvicorn app:app --reload"
+    buildCommand: |
+      pip install --upgrade pip
+      pip install --use-pep517 -r requirements.txt
+
+build:
+  pythonVersion: 3.9.19
