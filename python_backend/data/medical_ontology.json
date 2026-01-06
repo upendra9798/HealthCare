@@ -1,0 +1,995 @@
+{
+  "terms": {
+    "hypertension": {
+      "synonyms": ["high blood pressure", "HTN"],
+      "related_terms": [],
+      "definition": "A condition where the force of blood against artery walls is too high."
+    },
+    "diabetes mellitus": {
+      "synonyms": ["diabetes", "DM", "high blood sugar"],
+      "related_terms": [],
+      "definition": "A metabolic disease characterized by high blood sugar levels."
+    },
+    "type 1 diabetes mellitus": {
+      "synonyms": ["T1DM", "juvenile diabetes"],
+      "related_terms": [],
+      "definition": "An autoimmune condition where the pancreas produces little or no insulin."
+    },
+    "type 2 diabetes mellitus": {
+      "synonyms": ["T2DM", "adult-onset diabetes"],
+      "related_terms": [],
+      "definition": "A condition where the body becomes resistant to insulin or doesn't produce enough insulin."
+    },
+    "prediabetes": {
+      "synonyms": ["impaired fasting glucose", "IFG"],
+      "related_terms": [],
+      "definition": "A condition where blood sugar levels are higher than normal but not high enough to be classified as diabetes."
+    },
+    "myocardial infarction": {
+      "synonyms": ["heart attack", "MI"],
+      "related_terms": [],
+      "definition": "A condition where blood flow to a part of the heart is blocked, causing damage to the heart muscle."
+    },
+    "unstable angina": {
+      "synonyms": ["preinfarction angina"],
+      "related_terms": [],
+      "definition": "A condition characterized by chest pain that occurs even at rest or with minimal exertion."
+    },
+    "stable angina": {
+      "synonyms": ["chest pain"],
+      "related_terms": [],
+      "definition": "A condition characterized by chest pain that occurs with physical exertion or stress."
+    },
+    "acute coronary syndrome": {
+      "synonyms": ["ACS"],
+      "related_terms": [],
+      "definition": "A term used to describe a range of conditions associated with sudden, reduced blood flow to the heart."
+    },
+    "cerebrovascular accident": {
+      "synonyms": ["stroke", "CVA"],
+      "related_terms": [],
+      "definition": "A condition where blood flow to a part of the brain is interrupted, leading to brain damage."
+    },
+    "transient ischemic attack": {
+      "synonyms": ["TIA", "mini-stroke"],
+      "related_terms": [],
+      "definition": "A temporary period of symptoms similar to those of a stroke, usually lasting a few minutes."
+    },
+    "intracerebral hemorrhage": {
+      "synonyms": ["ICH"],
+      "related_terms": [],
+      "definition": "A type of stroke caused by bleeding within the brain tissue."
+    },
+    "subarachnoid hemorrhage": {
+      "synonyms": ["SAH"],
+      "related_terms": [],
+      "definition": "A type of stroke caused by bleeding into the space surrounding the brain."
+    },
+    "ischemic stroke": {
+      "synonyms": ["brain infarction"],
+      "related_terms": [],
+      "definition": "A type of stroke caused by a blockage in a blood vessel supplying the brain."
+    },
+    "hemorrhagic stroke": {
+      "synonyms": ["bleeding stroke"],
+      "related_terms": [],
+      "definition": "A type of stroke caused by bleeding into the brain."
+    },
+    "asthma": {
+      "synonyms": ["bronchial asthma"],
+      "related_terms": [],
+      "definition": "A condition characterized by inflammation and narrowing of the airways, leading to difficulty breathing."
+    },
+    "exercise-induced asthma": {
+      "synonyms": ["EIA"],
+      "related_terms": [],
+      "definition": "A type of asthma triggered by physical activity."
+    },
+    "allergic asthma": {
+      "synonyms": ["atopic asthma"],
+      "related_terms": [],
+      "definition": "A type of asthma triggered by allergens."
+    },
+    "chronic obstructive pulmonary disease": {
+      "synonyms": ["COPD", "chronic bronchitis", "emphysema"],
+      "related_terms": [],
+      "definition": "A group of lung conditions that cause breathing difficulties."
+    },
+    "chronic bronchitis": {
+      "synonyms": ["blue bloater"],
+      "related_terms": [],
+      "definition": "A condition characterized by inflammation of the bronchial tubes, leading to coughing and mucus production."
+    },
+    "emphysema": {
+      "synonyms": ["pink puffer"],
+      "related_terms": [],
+      "definition": "A condition characterized by damage to the air sacs in the lungs, leading to shortness of breath."
+    },
+    "bronchiectasis": {
+      "synonyms": ["permanent airway dilation"],
+      "related_terms": [],
+      "definition": "A condition characterized by abnormal widening of the bronchi, leading to mucus buildup and infection."
+    },
+    "pulmonary fibrosis": {
+      "synonyms": ["lung scarring"],
+      "related_terms": [],
+      "definition": "A condition characterized by scarring of the lung tissue, leading to difficulty breathing."
+    },
+    "idiopathic pulmonary fibrosis": {
+      "synonyms": ["IPF"],
+      "related_terms": [],
+      "definition": "A type of pulmonary fibrosis with no known cause."
+    },
+    "bronchiolitis obliterans": {
+      "synonyms": ["BO"],
+      "related_terms": [],
+      "definition": "A condition characterized by inflammation and scarring of the small airways in the lungs."
+    },
+    "pneumonia": {
+      "synonyms": ["lung infection"],
+      "related_terms": [],
+      "definition": "An infection that inflames the air sacs in the lungs, which may fill with fluid or pus."
+    },
+    "community-acquired pneumonia": {
+      "synonyms": ["CAP"],
+      "related_terms": [],
+      "definition": "Pneumonia acquired outside of a hospital or healthcare setting."
+    },
+    "hospital-acquired pneumonia": {
+      "synonyms": ["HAP"],
+      "related_terms": [],
+      "definition": "Pneumonia acquired during a hospital stay."
+    },
+    "ventilator-associated pneumonia": {
+      "synonyms": ["VAP"],
+      "related_terms": [],
+      "definition": "Pneumonia acquired while on a ventilator."
+    },
+    "aspiration pneumonia": {
+      "synonyms": ["foreign material pneumonia"],
+      "related_terms": [],
+      "definition": "Pneumonia caused by inhaling foreign material into the lungs."
+    },
+    "tuberculosis": {
+      "synonyms": ["TB"],
+      "related_terms": [],
+      "definition": "An infectious disease caused by the bacterium Mycobacterium tuberculosis, primarily affecting the lungs."
+    },
+    "multidrug-resistant tuberculosis": {
+      "synonyms": ["MDR-TB"],
+      "related_terms": [],
+      "definition": "A form of tuberculosis resistant to multiple antibiotics."
+    },
+    "fever": {
+      "synonyms": ["pyrexia", "high temperature"],
+      "related_terms": [],
+      "definition": "An increase in body temperature above the normal range, often due to an infection."
+    },
+    "hyperthermia": {
+      "synonyms": ["heat stroke", "heat exhaustion"],
+      "related_terms": [],
+      "definition": "A condition characterized by an abnormally high body temperature, often due to exposure to high temperatures."
+    },
+    "hypothermia": {
+      "synonyms": ["low body temperature"],
+      "related_terms": [],
+      "definition": "A condition characterized by an abnormally low body temperature, often due to exposure to cold temperatures."
+    },
+    "sepsis": {
+      "synonyms": ["systemic infection"],
+      "related_terms": [],
+      "definition": "A life-threatening condition caused by the body's response to an infection."
+    },
+    "septic shock": {
+      "synonyms": ["toxic shock"],
+      "related_terms": [],
+      "definition": "A severe form of sepsis characterized by a significant drop in blood pressure."
+    },
+    "urosepsis": {
+      "synonyms": ["urinary sepsis"],
+      "related_terms": [],
+      "definition": "Sepsis originating from a urinary tract infection."
+    },
+    "hyperlipidemia": {
+      "synonyms": ["high cholesterol", "dyslipidemia"],
+      "related_terms": [],
+      "definition": "A condition characterized by elevated levels of lipids in the blood."
+    },
+    "familial hypercholesterolemia": {
+      "synonyms": ["FH"],
+      "related_terms": [],
+      "definition": "A genetic condition characterized by high cholesterol levels from birth."
+    },
+    "hypolipidemia": {
+      "synonyms": ["low cholesterol"],
+      "related_terms": [],
+      "definition": "A condition characterized by abnormally low levels of lipids in the blood."
+    },
+    "hypertriglyceridemia": {
+      "synonyms": ["elevated triglycerides"],
+      "related_terms": [],
+      "definition": "A condition characterized by elevated levels of triglycerides in the blood."
+    },
+    "hypothyroidism": {
+      "synonyms": ["underactive thyroid"],
+      "related_terms": [],
+      "definition": "A condition characterized by an underactive thyroid gland, leading to a decrease in hormone production."
+    },
+    "congenital hypothyroidism": {
+      "synonyms": ["cretinism"],
+      "related_terms": [],
+      "definition": "Hypothyroidism present at birth, often due to a developmental problem with the thyroid gland."
+    },
+    "subclinical hypothyroidism": {
+      "synonyms": ["mild underactive thyroid"],
+      "related_terms": [],
+      "definition": "A mild form of hypothyroidism where thyroid hormone levels are slightly below normal but symptoms are minimal."
+    },
+    "hyperthyroidism": {
+      "synonyms": ["overactive thyroid"],
+      "related_terms": [],
+      "definition": "A condition characterized by an overactive thyroid gland, leading to an increase in hormone production."
+    },
+    "graves disease": {
+      "synonyms": ["thyrotoxicosis"],
+      "related_terms": [],
+      "definition": "An autoimmune disorder that leads to overactivity of the thyroid gland."
+    },
+    "toxic nodular goiter": {
+      "synonyms": ["Plummer disease"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of one or more nodules in the thyroid gland that produce excess thyroid hormones."
+    },
+    "coronary artery disease": {
+      "synonyms": ["CAD", "ischemic heart disease"],
+      "related_terms": [],
+      "definition": "A condition characterized by the narrowing or blockage of the coronary arteries, leading to reduced blood flow to the heart."
+    },
+    "peripheral artery disease": {
+      "synonyms": ["PAD"],
+      "related_terms": [],
+      "definition": "A condition characterized by the narrowing or blockage of the arteries outside the heart, often affecting the legs."
+    },
+    "congestive heart failure": {
+      "synonyms": ["CHF", "heart failure"],
+      "related_terms": [],
+      "definition": "A condition characterized by the heart's inability to pump blood effectively, leading to fluid buildup in the body."
+    },
+    "heart failure with reduced ejection fraction": {
+      "synonyms": ["HFrEF"],
+      "related_terms": [],
+      "definition": "A type of heart failure where the heart muscle is weakened and cannot pump blood effectively."
+    },
+    "heart failure with preserved ejection fraction": {
+      "synonyms": ["HFpEF"],
+      "related_terms": [],
+      "definition": "A type of heart failure where the heart muscle is stiff and cannot fill with blood effectively."
+    },
+    "cardiomyopathy": {
+      "synonyms": ["heart muscle disease"],
+      "related_terms": [],
+      "definition": "A disease of the heart muscle that affects its ability to pump blood."
+    },
+    "hypertrophic cardiomyopathy": {
+      "synonyms": ["HCM"],
+      "related_terms": [],
+      "definition": "A condition characterized by the thickening of the heart muscle, leading to reduced blood flow."
+    },
+    "dilated cardiomyopathy": {
+      "synonyms": ["DCM"],
+      "related_terms": [],
+      "definition": "A condition characterized by the enlargement of the heart chambers, leading to reduced pumping ability."
+    },
+    "renal failure": {
+      "synonyms": ["kidney failure", "end-stage renal disease", "ESRD"],
+      "related_terms": [],
+      "definition": "A condition characterized by the loss of kidney function, leading to the accumulation of waste products in the body."
+    },
+    "acute renal failure": {
+      "synonyms": ["acute kidney injury", "AKI"],
+      "related_terms": [],
+      "definition": "A sudden loss of kidney function, often due to injury or illness."
+    },
+    "chronic kidney disease": {
+      "synonyms": ["CKD"],
+      "related_terms": [],
+      "definition": "A long-term condition characterized by the gradual loss of kidney function over time."
+    },
+    "nephrotic syndrome": {
+      "synonyms": ["proteinuria syndrome"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of protein in the urine, leading to swelling and other symptoms."
+    },
+    "nephritic syndrome": {
+      "synonyms": ["hematuria syndrome"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of blood in the urine, leading to inflammation of the kidneys."
+    },
+    "hepatitis": {
+      "synonyms": ["liver inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the liver, often caused by viral infection or alcohol abuse."
+    },
+    "viral hepatitis": {
+      "synonyms": ["HAV", "HBV", "HCV"],
+      "related_terms": [],
+      "definition": "Hepatitis caused by a viral infection, such as hepatitis A, B, or C."
+    },
+    "alcoholic hepatitis": {
+      "synonyms": ["ASH"],
+      "related_terms": [],
+      "definition": "Hepatitis caused by excessive alcohol consumption."
+    },
+    "autoimmune hepatitis": {
+      "synonyms": ["AIH"],
+      "related_terms": [],
+      "definition": "Hepatitis caused by the body's immune system attacking the liver."
+    },
+    "cirrhosis": {
+      "synonyms": ["liver scarring"],
+      "related_terms": [],
+      "definition": "A condition characterized by the scarring of the liver tissue, leading to loss of function."
+    },
+    "non-alcoholic fatty liver disease": {
+      "synonyms": ["NAFLD"],
+      "related_terms": [],
+      "definition": "A condition characterized by the accumulation of fat in the liver, not caused by alcohol consumption."
+    },
+    "non-alcoholic steatohepatitis": {
+      "synonyms": ["NASH"],
+      "related_terms": [],
+      "definition": "A more severe form of non-alcoholic fatty liver disease, characterized by inflammation and liver damage."
+    },
+    "hepatocellular carcinoma": {
+      "synonyms": ["liver cancer", "HCC"],
+      "related_terms": [],
+      "definition": "A type of cancer that originates in the liver."
+    },
+    "pancreatitis": {
+      "synonyms": ["pancreas inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the pancreas, often caused by gallstones or alcohol abuse."
+    },
+    "acute pancreatitis": {
+      "synonyms": ["AP"],
+      "related_terms": [],
+      "definition": "A sudden inflammation of the pancreas, often causing severe abdominal pain."
+    },
+    "chronic pancreatitis": {
+      "synonyms": ["CP"],
+      "related_terms": [],
+      "definition": "A long-term inflammation of the pancreas, leading to permanent damage."
+    },
+    "gastroesophageal reflux disease": {
+      "synonyms": ["GERD", "acid reflux"],
+      "related_terms": [],
+      "definition": "A condition characterized by the backward flow of stomach acid into the esophagus, causing heartburn and other symptoms."
+    },
+    "peptic ulcer disease": {
+      "synonyms": ["PUD", "stomach ulcer"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of ulcers in the stomach or duodenum."
+    },
+    "gastric ulcer": {
+      "synonyms": ["stomach ulcer"],
+      "related_terms": [],
+      "definition": "An ulcer that forms in the lining of the stomach."
+    },
+    "duodenal ulcer": {
+      "synonyms": ["duodenum ulcer"],
+      "related_terms": [],
+      "definition": "An ulcer that forms in the lining of the duodenum."
+    },
+    "hiatal hernia": {
+      "synonyms": ["diaphragmatic hernia"],
+      "related_terms": [],
+      "definition": "A condition where a portion of the stomach protrudes through the diaphragm into the chest cavity."
+    },
+    "irritable bowel syndrome": {
+      "synonyms": ["IBS"],
+      "related_terms": [],
+      "definition": "A condition characterized by abdominal pain, bloating, and changes in bowel habits."
+    },
+    "inflammatory bowel disease": {
+      "synonyms": ["IBD"],
+      "related_terms": [],
+      "definition": "A group of conditions characterized by chronic inflammation of the digestive tract."
+    },
+    "ulcerative colitis": {
+      "synonyms": ["UC"],
+      "related_terms": [],
+      "definition": "A type of inflammatory bowel disease characterized by inflammation and ulcers in the colon and rectum."
+    },
+    "crohn disease": {
+      "synonyms": ["Crohn's"],
+      "related_terms": [],
+      "definition": "A type of inflammatory bowel disease characterized by inflammation of the digestive tract, often affecting the small intestine."
+    },
+    "celiac disease": {
+      "synonyms": ["gluten enteropathy"],
+      "related_terms": [],
+      "definition": "An autoimmune disorder where the ingestion of gluten leads to damage in the small intestine."
+    },
+    "diverticulosis": {
+      "synonyms": ["colon pouches"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of small pouches in the colon."
+    },
+    "diverticulitis": {
+      "synonyms": ["inflamed diverticula"],
+      "related_terms": [],
+      "definition": "Inflammation of the diverticula in the colon, often causing abdominal pain and fever."
+    },
+    "helicobacter pylori infection": {
+      "synonyms": ["H. pylori"],
+      "related_terms": [],
+      "definition": "An infection caused by the bacterium Helicobacter pylori, often leading to stomach ulcers."
+    },
+    "urinary tract infection": {
+      "synonyms": ["UTI", "bladder infection"],
+      "related_terms": [],
+      "definition": "An infection in any part of the urinary system, including the kidneys, bladder, and urethra."
+    },
+    "pyelonephritis": {
+      "synonyms": ["kidney infection"],
+      "related_terms": [],
+      "definition": "An infection of the kidneys, often caused by bacteria."
+    },
+    "interstitial cystitis": {
+      "synonyms": ["painful bladder syndrome"],
+      "related_terms": [],
+      "definition": "A condition characterized by chronic pain and pressure in the bladder."
+    },
+    "urethritis": {
+      "synonyms": ["urethra inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the urethra, often caused by infection."
+    },
+    "nephrolithiasis": {
+      "synonyms": ["kidney stones"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of stones in the kidneys."
+    },
+    "meningitis": {
+      "synonyms": ["brain infection"],
+      "related_terms": [],
+      "definition": "Inflammation of the membranes surrounding the brain and spinal cord, often caused by infection."
+    },
+    "viral meningitis": {
+      "synonyms": ["aseptic meningitis"],
+      "related_terms": [],
+      "definition": "Meningitis caused by a viral infection."
+    },
+    "bacterial meningitis": {
+      "synonyms": ["purulent meningitis"],
+      "related_terms": [],
+      "definition": "Meningitis caused by a bacterial infection."
+    },
+    "encephalitis": {
+      "synonyms": ["brain inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the brain, often caused by infection."
+    },
+    "dermatitis": {
+      "synonyms": ["skin inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the skin, often causing itching and redness."
+    },
+    "atopic dermatitis": {
+      "synonyms": ["eczema"],
+      "related_terms": [],
+      "definition": "A chronic skin condition characterized by itchy, inflamed skin."
+    },
+    "contact dermatitis": {
+      "synonyms": ["allergic contact eczema"],
+      "related_terms": [],
+      "definition": "A skin condition caused by contact with an irritant or allergen."
+    },
+    "psoriasis": {
+      "synonyms": ["psoriatic disease"],
+      "related_terms": [],
+      "definition": "A chronic skin condition characterized by red, scaly patches."
+    },
+    "seborrheic dermatitis": {
+      "synonyms": ["seborrhea"],
+      "related_terms": [],
+      "definition": "A skin condition characterized by red, scaly patches, often on the scalp."
+    },
+    "acne vulgaris": {
+      "synonyms": ["acne"],
+      "related_terms": [],
+      "definition": "A skin condition characterized by pimples, blackheads, and whiteheads."
+    },
+    "rosacea": {
+      "synonyms": ["facial flushing"],
+      "related_terms": [],
+      "definition": "A skin condition characterized by redness and visible blood vessels on the face."
+    },
+    "urticaria": {
+      "synonyms": ["hives"],
+      "related_terms": [],
+      "definition": "A skin condition characterized by red, itchy welts."
+    },
+    "cellulitis": {
+      "synonyms": ["skin infection"],
+      "related_terms": [],
+      "definition": "A bacterial skin infection characterized by redness, swelling, and pain."
+    },
+    "fungal skin infection": {
+      "synonyms": ["dermatomycosis"],
+      "related_terms": [],
+      "definition": "A skin infection caused by fungi."
+    },
+    "onychomycosis": {
+      "synonyms": ["fungal nail infection"],
+      "related_terms": [],
+      "definition": "A fungal infection of the nails."
+    },
+    "impetigo": {
+      "synonyms": ["streptococcal skin infection"],
+      "related_terms": [],
+      "definition": "A bacterial skin infection characterized by red sores and blisters."
+    },
+    "scabies": {
+      "synonyms": ["mite infestation"],
+      "related_terms": [],
+      "definition": "A skin condition caused by the infestation of the skin by the Sarcoptes scabiei mite."
+    },
+    "pediculosis": {
+      "synonyms": ["lice infestation"],
+      "related_terms": [],
+      "definition": "A condition caused by the infestation of the skin by lice."
+    },
+    "allergic rhinitis": {
+      "synonyms": ["hay fever"],
+      "related_terms": [],
+      "definition": "An allergic reaction to airborne allergens, causing sneezing, runny nose, and congestion."
+    },
+    "sinusitis": {
+      "synonyms": ["sinus infection"],
+      "related_terms": [],
+      "definition": "Inflammation of the sinuses, often caused by infection."
+    },
+    "otitis media": {
+      "synonyms": ["middle ear infection"],
+      "related_terms": [],
+      "definition": "An infection of the middle ear, often causing ear pain and fever."
+    },
+    "otitis externa": {
+      "synonyms": ["swimmer's ear"],
+      "related_terms": [],
+      "definition": "An infection of the outer ear canal, often caused by water exposure."
+    },
+    "tonsillitis": {
+      "synonyms": ["tonsil inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the tonsils, often caused by infection."
+    },
+    "laryngitis": {
+      "synonyms": ["voice box inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the larynx, often causing hoarseness or loss of voice."
+    },
+    "pharyngitis": {
+      "synonyms": ["sore throat"],
+      "related_terms": [],
+      "definition": "Inflammation of the pharynx, often causing a sore throat."
+    },
+    "bronchitis": {
+      "synonyms": ["airway inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the bronchial tubes, often causing coughing and mucus production."
+    },
+    "laryngotracheobronchitis": {
+      "synonyms": ["croup"],
+      "related_terms": [],
+      "definition": "Inflammation of the larynx, trachea, and bronchi, often causing a barking cough."
+    },
+    "epiglottitis": {
+      "synonyms": ["supraglottitis"],
+      "related_terms": [],
+      "definition": "Inflammation of the epiglottis, often causing difficulty breathing and swallowing."
+    },
+    "influenza": {
+      "synonyms": ["flu"],
+      "related_terms": [],
+      "definition": "A viral infection affecting the respiratory system, often causing fever, cough, and body aches."
+    },
+    "common cold": {
+      "synonyms": ["viral rhinitis"],
+      "related_terms": [],
+      "definition": "A viral infection of the upper respiratory tract, often causing a runny nose, sore throat, and cough."
+    },
+    "respiratory syncytial virus infection": {
+      "synonyms": ["RSV infection"],
+      "related_terms": [],
+      "definition": "A viral infection affecting the respiratory system, often causing cold-like symptoms."
+    },
+    "measles": {
+      "synonyms": ["rubeola"],
+      "related_terms": [],
+      "definition": "A highly contagious viral infection characterized by a red rash and fever."
+    },
+    "mumps": {
+      "synonyms": ["parotitis"],
+      "related_terms": [],
+      "definition": "A viral infection characterized by swelling of the parotid glands."
+    },
+    "rubella": {
+      "synonyms": ["German measles"],
+      "related_terms": [],
+      "definition": "A viral infection characterized by a red rash and fever, often mild in children but dangerous in pregnant women."
+    },
+    "varicella": {
+      "synonyms": ["chickenpox"],
+      "related_terms": [],
+      "definition": "A highly contagious viral infection characterized by an itchy rash and blisters."
+    },
+    "herpes zoster": {
+      "synonyms": ["shingles"],
+      "related_terms": [],
+      "definition": "A viral infection characterized by a painful rash, often occurring in older adults who have had chickenpox."
+    },
+    "obesity": {
+      "synonyms": ["overweight"],
+      "related_terms": [],
+      "definition": "A condition characterized by excessive body fat, often leading to health problems."
+    },
+    "morbid obesity": {
+      "synonyms": ["class iii obesity"],
+      "related_terms": [],
+      "definition": "A severe form of obesity, often associated with serious health risks."
+    },
+    "anorexia nervosa": {
+      "synonyms": ["self-starvation"],
+      "related_terms": [],
+      "definition": "An eating disorder characterized by an intense fear of gaining weight and a distorted body image."
+    },
+    "bulimia nervosa": {
+      "synonyms": ["binge-purge syndrome"],
+      "related_terms": [],
+      "definition": "An eating disorder characterized by episodes of binge eating followed by purging."
+    },
+    "binge eating disorder": {
+      "synonyms": ["BED"],
+      "related_terms": [],
+      "definition": "An eating disorder characterized by episodes of binge eating without purging."
+    },
+    "osteoporosis": {
+      "synonyms": ["bone loss"],
+      "related_terms": [],
+      "definition": "A condition characterized by weak and brittle bones, often leading to fractures."
+    },
+    "osteopenia": {
+      "synonyms": ["low bone density"],
+      "related_terms": [],
+      "definition": "A condition characterized by lower than normal bone density, but not as severe as osteoporosis."
+    },
+    "gout": {
+      "synonyms": ["uric acid arthritis"],
+      "related_terms": [],
+      "definition": "A form of arthritis characterized by sudden, severe attacks of pain, redness, and tenderness in joints."
+    },
+    "pseudogout": {
+      "synonyms": ["calcium pyrophosphate deposition disease"],
+      "related_terms": [],
+      "definition": "A form of arthritis characterized by sudden, severe attacks of pain, redness, and tenderness in joints, caused by calcium pyrophosphate crystals."
+    },
+    "vitamin d deficiency": {
+      "synonyms": ["hypovitaminosis D"],
+      "related_terms": [],
+      "definition": "A condition characterized by low levels of vitamin D, often leading to bone problems."
+    },
+    "iron deficiency anemia": {
+      "synonyms": ["IDA"],
+      "related_terms": [],
+      "definition": "A condition characterized by a lack of iron, leading to a decrease in the number of red blood cells."
+    },
+    "anemia": {
+      "synonyms": ["low hemoglobin"],
+      "related_terms": [],
+      "definition": "A condition characterized by a decrease in the number of red blood cells or hemoglobin in the blood."
+    },
+    "aplastic anemia": {
+      "synonyms": ["bone marrow failure"],
+      "related_terms": [],
+      "definition": "A condition characterized by the failure of the bone marrow to produce enough blood cells."
+    },
+    "hemolytic anemia": {
+      "synonyms": ["red cell destruction"],
+      "related_terms": [],
+      "definition": "A condition characterized by the destruction of red blood cells faster than they can be produced."
+    },
+    "sickle cell anemia": {
+      "synonyms": ["SCA"],
+      "related_terms": [],
+      "definition": "A genetic condition characterized by abnormal hemoglobin, leading to misshapen red blood cells."
+    },
+    "thalassemia": {
+      "synonyms": ["inherited hemoglobin disorder"],
+      "related_terms": [],
+      "definition": "A genetic condition characterized by abnormal hemoglobin production, leading to anemia."
+    },
+    "leukemia": {
+      "synonyms": ["blood cancer"],
+      "related_terms": [],
+      "definition": "A cancer of the blood-forming tissues, leading to an increase in abnormal white blood cells."
+    },
+    "acute lymphoblastic leukemia": {
+      "synonyms": ["ALL"],
+      "related_terms": [],
+      "definition": "A type of leukemia characterized by the rapid growth of immature lymphocytes."
+    },
+    "acute myeloid leukemia": {
+      "synonyms": ["AML"],
+      "related_terms": [],
+      "definition": "A type of leukemia characterized by the rapid growth of immature myeloid cells."
+    },
+    "chronic lymphocytic leukemia": {
+      "synonyms": ["CLL"],
+      "related_terms": [],
+      "definition": "A type of leukemia characterized by the slow growth of mature lymphocytes."
+    },
+    "chronic myeloid leukemia": {
+      "synonyms": ["CML"],
+      "related_terms": [],
+      "definition": "A type of leukemia characterized by the slow growth of mature myeloid cells."
+    },
+    "lymphoma": {
+      "synonyms": ["lymphatic cancer"],
+      "related_terms": [],
+      "definition": "A cancer of the lymphatic system, often affecting the lymph nodes."
+    },
+    "Hodgkin lymphoma": {
+      "synonyms": ["HL"],
+      "related_terms": [],
+      "definition": "A type of lymphoma characterized by the presence of Reed-Sternberg cells."
+    },
+    "non-Hodgkin lymphoma": {
+      "synonyms": ["NHL"],
+      "related_terms": [],
+      "definition": "A type of lymphoma not characterized by the presence of Reed-Sternberg cells."
+    },
+    "multiple myeloma": {
+      "synonyms": ["plasma cell cancer"],
+      "related_terms": [],
+      "definition": "A cancer of the plasma cells, often affecting the bone marrow."
+    },
+    "monoclonal gammopathy of undetermined significance": {
+      "synonyms": ["MGUS"],
+      "related_terms": [],
+      "definition": "A condition characterized by the presence of abnormal proteins in the blood, often a precursor to multiple myeloma."
+    },
+    "melanoma": {
+      "synonyms": ["skin cancer"],
+      "related_terms": [],
+      "definition": "A type of skin cancer that originates in the melanocytes."
+    },
+    "basal cell carcinoma": {
+      "synonyms": ["BCC"],
+      "related_terms": [],
+      "definition": "A type of skin cancer that originates in the basal cells."
+    },
+    "squamous cell carcinoma": {
+      "synonyms": ["SCC"],
+      "related_terms": [],
+      "definition": "A type of skin cancer that originates in the squamous cells."
+    },
+    "prostate cancer": {
+      "synonyms": ["prostatic carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the prostate gland."
+    },
+    "breast cancer": {
+      "synonyms": ["mammary carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the breast tissue."
+    },
+    "lung cancer": {
+      "synonyms": ["pulmonary carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the lungs."
+    },
+    "small cell lung cancer": {
+      "synonyms": ["SCLC"],
+      "related_terms": [],
+      "definition": "A type of lung cancer characterized by small cells, often aggressive."
+    },
+    "non-small cell lung cancer": {
+      "synonyms": ["NSCLC"],
+      "related_terms": [],
+      "definition": "A type of lung cancer characterized by larger cells, often less aggressive than small cell lung cancer."
+    },
+    "colon cancer": {
+      "synonyms": ["colorectal carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the colon."
+    },
+    "rectal cancer": {
+      "synonyms": ["rectal carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the rectum."
+    },
+    "pancreatic cancer": {
+      "synonyms": ["pancreatic carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the pancreas."
+    },
+    "renal cell carcinoma": {
+      "synonyms": ["kidney cancer"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the kidneys."
+    },
+    "bladder cancer": {
+      "synonyms": ["urothelial carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the bladder."
+    },
+    "ovarian cancer": {
+      "synonyms": ["ovarian carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the ovaries."
+    },
+    "endometrial cancer": {
+      "synonyms": ["uterine cancer"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the lining of the uterus."
+    },
+    "cervical cancer": {
+      "synonyms": ["cervical carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the cervix."
+    },
+    "testicular cancer": {
+      "synonyms": ["testicular carcinoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the testicles."
+    },
+    "brain tumor": {
+      "synonyms": ["intracranial neoplasm"],
+      "related_terms": [],
+      "definition": "A mass of abnormal cells in the brain."
+    },
+    "glioblastoma": {
+      "synonyms": ["GBM"],
+      "related_terms": [],
+      "definition": "A highly aggressive type of brain tumor."
+    },
+    "meningioma": {
+      "synonyms": ["meningeal tumor"],
+      "related_terms": [],
+      "definition": "A tumor that originates in the meninges, the membranes surrounding the brain and spinal cord."
+    },
+    "eye cancer": {
+      "synonyms": ["ocular melanoma"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the eye."
+    },
+    "retinoblastoma": {
+      "synonyms": ["RB"],
+      "related_terms": [],
+      "definition": "A cancer that originates in the retina, often affecting children."
+    },
+    "leukoplakia": {
+      "synonyms": ["white patch"],
+      "related_terms": [],
+      "definition": "A condition characterized by white patches on the mucous membranes, often in the mouth."
+    },
+    "erythroplakia": {
+      "synonyms": ["red patch"],
+      "related_terms": [],
+      "definition": "A condition characterized by red patches on the mucous membranes, often in the mouth."
+    },
+    "glaucoma": {
+      "synonyms": ["optic nerve damage"],
+      "related_terms": [],
+      "definition": "A condition characterized by damage to the optic nerve, often leading to vision loss."
+    },
+    "open-angle glaucoma": {
+      "synonyms": ["chronic glaucoma"],
+      "related_terms": [],
+      "definition": "A type of glaucoma characterized by a gradual increase in eye pressure."
+    },
+    "angle-closure glaucoma": {
+      "synonyms": ["acute glaucoma"],
+      "related_terms": [],
+      "definition": "A type of glaucoma characterized by a sudden increase in eye pressure."
+    },
+    "cataract": {
+      "synonyms": ["lens opacity"],
+      "related_terms": [],
+      "definition": "A condition characterized by clouding of the lens of the eye, leading to vision loss."
+    },
+    "age-related macular degeneration": {
+      "synonyms": ["AMD"],
+      "related_terms": [],
+      "definition": "A condition characterized by damage to the macula, leading to vision loss."
+    },
+    "retinal detachment": {
+      "synonyms": ["detached retina"],
+      "related_terms": [],
+      "definition": "A condition characterized by the separation of the retina from the underlying tissue."
+    },
+    "diabetic retinopathy": {
+      "synonyms": ["DR"],
+      "related_terms": [],
+      "definition": "A condition characterized by damage to the blood vessels in the retina, often caused by diabetes."
+    },
+    "macular edema": {
+      "synonyms": ["retinal swelling"],
+      "related_terms": [],
+      "definition": "A condition characterized by swelling of the macula, often caused by diabetes."
+    },
+    "conjunctivitis": {
+      "synonyms": ["pink eye"],
+      "related_terms": [],
+      "definition": "Inflammation of the conjunctiva, often causing redness and itching."
+    },
+    "uveitis": {
+      "synonyms": ["eye inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the uvea, the middle layer of the eye."
+    },
+    "blepharitis": {
+      "synonyms": ["eyelid inflammation"],
+      "related_terms": [],
+      "definition": "Inflammation of the eyelids, often causing redness and itching."
+    },
+    "otosclerosis": {
+      "synonyms": ["ear bone growth"],
+      "related_terms": [],
+      "definition": "A condition characterized by abnormal growth of the bones in the middle ear, leading to hearing loss."
+    },
+    "Meniere disease": {
+      "synonyms": ["endolymphatic hydrops"],
+      "related_terms": [],
+      "definition": "A condition characterized by episodes of vertigo, hearing loss, and tinnitus."
+    },
+    "vertigo": {
+      "synonyms": ["dizziness"],
+      "related_terms": [],
+      "definition": "A sensation of spinning or dizziness, often caused by inner ear problems."
+    },
+    "tinnitus": {
+      "synonyms": ["ear ringing"],
+      "related_terms": [],
+      "definition": "A condition characterized by ringing or buzzing in the ears."
+    },
+    "hearing loss": {
+      "synonyms": ["deafness"],
+      "related_terms": [],
+      "definition": "A condition characterized by a decrease in the ability to hear."
+    },
+    "otitis media with effusion": {
+      "synonyms": ["glue ear"],
+      "related_terms": [],
+      "definition": "A condition characterized by fluid buildup in the middle ear, often causing hearing loss."
+    },
+    "sensorineural hearing loss": {
+      "synonyms": ["SNHL"],
+      "related_terms": [],
+      "definition": "A type of hearing loss caused by damage to the inner ear or auditory nerve."
+    },
+    "conductive hearing loss": {
+      "synonyms": ["CHL"],
+      "related_terms": [],
+      "definition": "A type of hearing loss caused by problems in the outer or middle ear."
+    },
+    "aphasia": {
+      "synonyms": ["language disorder"],
+      "related_terms": [],
+      "definition": "A condition characterized by the loss of the ability to understand or express speech."
+    },
+    "dementia": {
+      "synonyms": ["cognitive decline"],
+      "related_terms": [],
+      "definition": "A condition characterized by a decline in cognitive function, often affecting memory and thinking."
+    },
+    "Alzheimer disease": {
+      "synonyms": ["AD"],
+      "related_terms": [],
+      "definition": "A progressive neurodegenerative disease characterized by memory loss and cognitive decline."
+    }
+  },
+  "relationships": {}
+}
