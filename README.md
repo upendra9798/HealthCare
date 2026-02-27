@@ -78,8 +78,8 @@ Healthcare/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/Healthcare.git
-cd Healthcare
+git clone https://github.com/upendra9798/HealthCare.git
+cd HealthCare
 ```
 
 ### 2. **Environment Variables**
